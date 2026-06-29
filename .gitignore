@@ -1,0 +1,17 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+### Python miljö
+
+.venv/  
+**pycache**/ 
+*.pyc
+
+### Hemligheter och miljövariabler
+
+.env
+
+### Webbläsar-data (om du sparar profiler lokalt)
+
+.browser-use/  
+user_data
+ai_profile

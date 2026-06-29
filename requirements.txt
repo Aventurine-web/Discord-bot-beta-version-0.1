@@ -1,0 +1,5 @@
+google-adk>=2.3.0
+browser-use>=0.11.0
+python-dotenv>=1.0.0
+discord.py>=2.4.0
+openclaw-sdk[fastapi]>=2.0.0
